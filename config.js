@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285655807787'] 
+global.owner = ['6283867137091,6283839200413'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ 𝔸𝕟𝕘𝕘𝕒𝕟𝕆𝕗𝕔ོ ×፝֟͜×'
-global.numberowner = '6285655807787'
-global.instagram = 'https://instagram.com/angganaudio'
-global.github = 'https://github.com/angganaudio01'
+global.nameowner = 'ᴹᴿ᭄ Ais Stote ×፝֟͜×'
+global.numberowner = '6283867137091'
+global.instagram = 'https://instagram.com/xynozjb'
+global.github = 'https://github.com/carisendiri'
 global.dana = '-'
-global.pulsa = '085655807787'
-global.gopay = '085655807787'
+global.pulsa = '6283867137091'
+global.gopay = '6283867137091'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳ོ'
-global.gc = 'https://chat.whatsapp.com/KMaJIZT78yK5nsDYZEJsIw'
-global.web = 'https://youtube.com/channel/UCPkHhW_qgygrH5sq4Otch4Q' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'AisBotz-𝙼𝙳ོ'
+global.gc = 'https://chat.whatsapp.com/DSJqfuttJwWBRH8EXj73v3'
+global.web = 'https://youtube.com/channel/xynozbotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '⫹⫺ 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳'
+global.wm = '⫹⫺ AisBotz-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳'
+global.wm2 = '                     「 Ais𝙱𝙾𝚃-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ Ais𝙱𝙾𝚃-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
-global.packname = 'Sticker By'
-global.author = '© Anggan'
+global.packname = 'Sticker By Ais'
+global.author = '© XynozBOTZ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
